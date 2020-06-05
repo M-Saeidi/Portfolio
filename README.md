@@ -8,6 +8,7 @@
 
 ## Project 2: Classification of users based on their social network advertisement purchases
 Developing K-Nearest Neighborss (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest classification Methods using scikit-learn library for advertisement effectiveness on social media users based on their age and salary.
+![](https://github.com/M-Saeidi/Portfolio/blob/master/Images/KNN.png)
 
 ## Project 3: Deep learning application for image classification
 In this project, a model based on Convolutional Neural Network (CNN) is developed by using different packages in Keras library to distinguish different types of image dataset with more than 10k images.
