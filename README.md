@@ -1,7 +1,7 @@
 # Portfolio
 
 ## [Project 1: Deep learning application for fault detection and condition monitoring in wind farms](https://github.com/M-Saeidi/LSTM-for-Wind-Farm-Condition-Monitoring)
-* Implementation of Correlation Analysis for Feature Selection among 35 on mechanical and electrical wind farm datasets. 
+* [Implementation of Correlation Analysis for Feature Selection among 35 on mechanical and electrical wind farm datasets.](https://github.com/M-Saeidi/LSTM-for-Wind-Farm-Condition-Monitoring/tree/master/Correlation)
 * Implementatoion of Preprocessing techniques such as scaling, missing values handling and etc. using Numpy and Pandas libraries.
 * Developing Multiple Linear Regression and  for Fault Detection and condition monitoring.
 * Developing different Recurrent Neural Networks (Long Short-Term Memory (LSTM)) such as Stacked-LSTM, Bidirectional LSTM, and Multivariate LSTM using Keras package and CUDA for predicting temperature of generator's windings for a winnd farm in the North of Quebec, Canada.
