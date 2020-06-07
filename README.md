@@ -5,6 +5,7 @@
 * Implementatoion of Preprocessing techniques such as scaling, missing values handling and etc. using Numpy and Pandas libraries.
 * Developing Multiple Linear Regression and  for Fault Detection and condition monitoring.
 * Developing different Recurrent Neural Networks (Long Short-Term Memory (LSTM)) such as Stacked-LSTM, Bidirectional LSTM, and Multivariate LSTM using Keras package and CUDA for predicting temperature of generator's windings for a winnd farm in the North of Quebec, Canada.
+* Visualizing the results of project using Tableau software.
 
 ## [Project 2: Classification of users based on their social network advertisement purchases](https://github.com/M-Saeidi/Classification-of-users-based-on-their-social-network-advertisement-purchases)
 Developing K-Nearest Neighborss (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest classification Methods using scikit-learn library for advertisement effectiveness on social media users based on their age and salary.
