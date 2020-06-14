@@ -13,7 +13,7 @@ Developing K-Nearest Neighborss (KNN), Support Vector Machine (SVM), Decision Tr
 ## [Project 3: Convolutional Neural Network (CNN) application for image classification](https://github.com/M-Saeidi/CNN-for-Image-Claasification)
 In this project, a model based on Convolutional Neural Network (CNN) is developed by using different packages in Keras library to distinguish different types of image dataset with more than 10k images.
 
-## Project 4: Geo-demographic analysis of churn rate for a financial instution using Artificial Neural Networks
+## [Project 4: Geo-demographic analysis of churn rate for a financial instution using Artificial Neural Networks](https://github.com/M-Saeidi/ANN-for-Churn-Rate-Analysis)
 In this project, a financial institution asked us as a Data Scientist to find the most vulnerable client which will probably cancel their subscription. In this practical classification problem, the financial institution provided us with more than 10K clients information such as credit score, geography, gender, age, tenure, balance, possession of credit card, estimated salary, and etc. For this purpose, StandardScaler, LabelEncoder, and OneHotEncoder classes are used to handle the categorical input features. Moreover, a multi-layer ANN model is developed using Keras library to create an accurate classifier for detection of clients which are more likely to cancel their subscription.
 
 ## Project 5: Recurrent Neural Network application for Google stock price prediction
