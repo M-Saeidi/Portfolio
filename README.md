@@ -10,7 +10,7 @@
 ## [Project 2: Classification of users based on their social network advertisement purchases](https://github.com/M-Saeidi/Classification-of-users-based-on-their-social-network-advertisement-purchases)
 Developing K-Nearest Neighborss (KNN), Support Vector Machine (SVM), Decision Tree, and Random Forest classification Methods using scikit-learn library for advertisement effectiveness on social media users based on their age and salary.
 
-## Project 3: Convolutional Neural Network (CNN) application for image classification
+## [Project 3: Convolutional Neural Network (CNN) application for image classification](https://github.com/M-Saeidi/CNN-for-Image-Claasification)
 In this project, a model based on Convolutional Neural Network (CNN) is developed by using different packages in Keras library to distinguish different types of image dataset with more than 10k images.
 
 ## Project 4: Geo-demographic analysis of churn rate for a financial instution using Artificial Neural Networks
